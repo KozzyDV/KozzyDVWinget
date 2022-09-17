@@ -1,0 +1,14 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: VB-AUDIOSoftware.VoicemeeterProSetup
+PackageVersion: 2.0.6.2
+PackageLocale: en-US
+Publisher: VB-AUDIO Software
+PackageName: VoicemeeterProSetup
+License: Proprietary
+Copyright: V.Burel©2013-2022
+ShortDescription: VB-AUDIO Voicemeeter Banana Installer
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
+
