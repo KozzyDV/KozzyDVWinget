@@ -1,9 +1,13 @@
 # KozzyDVWinget
+
 <h1>
     Introduction
 </h1>
 <p>
-    Welcome to my Winget repository. This is where I maintain all of my machines winget package information such that I can reinstall all my packages on new devices easily. I also create and maintain new manifests. Feel free to use my files as you see fit. 
+    Welcome to my Winget repository. This is where I maintain all of my machines winget package information such that I can reinstall all my packages on new devices easily. I also create and maintain new manifests. Feel free to use my files as you see fit.
+
+    To see more about [Winget](https://github.com/microsoft/winget-cli)
+    To see more about [WingetCreate](https://github.com/microsoft/winget-create)
 </p>
 
 <h1>
@@ -32,7 +36,3 @@
     VB-CABLE is a virtual audio device working as virtual audio cable. All audio coming in the CABLE input is simply forwarded to the CABLE output.
     [Virtual Audio Cable](https://vb-audio.com/Cable/index.htm)
 </p>
-
-
-
-
