@@ -19,17 +19,17 @@
     2.0.6.2
 </h4>
 <p>
-    Voicemeeter Banana is an Advanced Audio Mixer Application endowed with Virtual Audio Device used as Virtual I/O to mix and manage any audio sources from or to any audio devices or applications. /br
+    Voicemeeter Banana is an Advanced Audio Mixer Application endowed with Virtual Audio Device used as Virtual I/O to mix and manage any audio sources from or to any audio devices or applications.
     [VoiceMeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
 </p>
 <h3>
     Virtual Audio Cable
 </h3>
 <h4>
-    2.0.6.2
+    Pack 43
 </h4>
 <p>
-    VB-CABLE is a virtual audio device working as virtual audio cable. All audio coming in the CABLE input is simply forwarded to the CABLE output. /br
+    VB-CABLE is a virtual audio device working as virtual audio cable. All audio coming in the CABLE input is simply forwarded to the CABLE output.
     [Virtual Audio Cable](https://vb-audio.com/Cable/index.htm)
 </p>
 
