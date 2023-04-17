@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-09-17T09:51:52.727-00:00",
+	"CreationDate" : "2023-04-17T14:18:56.677-00:00",
 	"Sources" : 
 	[
 		{
@@ -10,7 +10,7 @@
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier" : "BraveSoftware.BraveBrowser"
+					"PackageIdentifier" : "Brave.Brave"
 				},
 				{
 					"PackageIdentifier" : "CPUID.CPU-Z"
@@ -49,55 +49,73 @@
 					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
-					"PackageIdentifier" : "Elgato.GameCapture.4K60ProMK2"
+					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Teams"
+					"PackageIdentifier" : "KDE.Kdenlive"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VC++2010Redist-x64"
+					"PackageIdentifier" : "ownCloud.ownCloudDesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier" : "Logitech.GHUB"
-				},
-				{
-					"PackageIdentifier" : "Elgato.4KCaptureUtility"
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
+					"PackageIdentifier" : "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
 				},
 				{
 					"PackageIdentifier" : "Elgato.StreamDeck"
 				},
 				{
+					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
+					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
 				},
 				{
-					"PackageIdentifier" : "VMware.WorkstationPro"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2008Redist-x86"
+					"PackageIdentifier" : "PlayStation.DualSenseFWUpdater"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
@@ -106,10 +124,40 @@
 					"PackageIdentifier" : "Nvidia.PhysX"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2010Redist-x86"
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
 				},
 				{
-					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Elgato.4KCaptureUtility"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "Meld.Meld"
+				},
+				{
+					"PackageIdentifier" : "VMware.WorkstationPro"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.6"
 				}
 			],
 			"SourceDetails" : 
@@ -136,5 +184,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.4.2161-preview"
+	"WinGetVersion" : "1.5.441-preview"
 }
